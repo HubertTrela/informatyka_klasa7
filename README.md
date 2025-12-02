@@ -3,3 +3,5 @@ Projekty na informatykę
 
 # Lekcja pierwsza HTML
 robimy stronę podstawową
+
+* dodane zdjęcie
